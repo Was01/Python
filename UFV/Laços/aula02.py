@@ -56,3 +56,64 @@ while number<10:
     print(number)
 """
 
+## Laço for
+
+"""
+frutas=['banana','uva','abacaxi','melancia']
+for x in frutas:
+    print(x)
+"""
+
+"""
+for i in 'melancia':
+    print(i)
+"""
+
+"""
+for i in range(5):
+    print(i)
+"""
+
+"""
+for i in range(2,6):
+    print(i)
+"""
+
+# Entrada e saída de arquivos
+
+""""
+with open ('nomes.txt','r') as reader:
+    print(reader.read())
+"""
+
+""""
+f=open('nomes.txt')
+mylist=f.readlines()
+print(mylist)
+"""
+""""
+with open ('nomes.txt','r') as reader:
+    line=reader.readline()
+    while line != '':
+        print(line,end='')
+        line=reader.readline()
+"""
+
+""""
+with open('nomes.txt','r') as reader:
+    for line in reader.readlines():
+        print (line, end='')
+"""
+
+
+with open ('nomes.txt','r') as reader:
+    nomes=reader.readlines()
+
+""""
+with open('nomes.txt','w') as writer:
+    writer.writelines(reversed(nomes))
+"""
+
+with open ('nomes.txt','w') as writer:
+    for nome in reversed(nomes):
+        writer.write(nome)
