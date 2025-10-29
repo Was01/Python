@@ -1,0 +1,24 @@
+ID_Cliente,Nome,Idade,Email,Data_Compra,Valor_Compra,Produto,Pagamento
+16,Ricardo Araújo,42.0,ricardo.araujo@exemplo,2023-11-19,140.0,Laptop,CARTÃO DE CRÉDITO
+8,Henrique Martins,32.0,henrique.martins@exemplo.com,2023-08-06,300.0,Smartphone,cartao de credito
+5,Eliana Rocha,39.0,eliana_rocha@exemplo.com,2023-09-14,79.5,Headphones,cartao de credito
+12,Marcos Paulo,36.0,marcospaulo@exemplo.com,2023-06-16,0.0,Smartphone,cartao de credito
+2,Bruno Costa,34.0,bruno.costa@exemplo,2023-02-22,-200.0,Smartphone,CARTÃO DE CRÉDITO
+20,Victor Santos,29.0,victor_santos@exemplo.com,2023-10-06,50.0,Laptop,CARTÃO DE CRÉDITO
+19,Úrsula Matos,33.0,ursula.matos@exemplo,2023-05-15,-100.0,Tablet,Cartão de Crédito
+1,Ana Silva,28.0,ana.silva@exemplo.com,2023-12-26,150.0,Laptop,Cartão de crédito
+18,Thiago Cardoso,,thiago.cardoso@exemplo.com,2023-06-17,75.0,Smartphone,cartao de credito
+9,Isabela Souza,,isabela souza@exemplo.com,2023-05-02,-50.0,Laptop,Cartão de Crédito
+3,Carlos Souza,45.0,carlos.souza@exemplo.com,2023-03-26,99.99,Tablet,Cartão de Crédito
+6,Fernando Alves,50.0,fernando.alves@exemplo.com,2023-09-28,,Smartphone,cartão de crédito
+13,Natália Silva,29.0,natalia.silva@exemplo.com,2023-07-15,89.9,Smartphone,Cartão de Crédito
+2,Bruno Costa,34.0,bruno.costa@exemplo,2023-02-22,-200.0,Smartphone,CARTÃO DE CRÉDITO
+11,Laura Mendes,25.0,laura_mendes@exemplo.com,2023-02-15,250.0,Headphones,CARTÃO DE CRÉDITO
+17,Sofia Ferreira,38.0,sofia_ferreira@exemplo.com,2023-03-23,160.0,Laptop,cartão de crédito
+10,João Oliveira,41.0,joao.oliveira@exemplo,2023-05-26,99.99,Tablet,Cartão de crédito
+14,Otávio Cunha,31.0,otavio_cunha@exemplo.com,2023-01-06,199.99,Tablet,cartao de credito
+4,Daniela Lima,,daniela_lima@exemplo.com,2023-09-07,450.0,Laptop,cartão de crédito
+7,Gabriela Pereira,27.0,gabrielapereira@exemplo.com,2023-12-21,120.0,Tablet,CARTÃO DE CRÉDITO
+15,Patrícia Gomes,,patricia.gomes@exemplo.com,2023-06-19,,Smartphone,cartão de crédito
+8,Henrique Martins,32.0,henrique.martins@exemplo.com,2023-08-06,300.0,Smartphone,cartao de credito
+18,Thiago Cardoso,,thiago.cardoso@exemplo.com,2023-06-17,75.0,Smartphone,cartao de credito
