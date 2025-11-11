@@ -16,5 +16,5 @@ df.head(10)
 planilha=pd.read_excel('dados.xlsx')
 planilha.head(10)
 
-planilha_filtrada=filtro=planilha[(planilha['MUNICIPIO']=='FERRAZ DE VASCONCELOS')|(planilha['MUNICIPIO']=='SUZANO')]
+planilha_filtrada=planilha[(planilha['MUNICIPIO']=='FERRAZ DE VASCONCELOS')|(planilha['MUNICIPIO']=='SUZANO')]
 planilha_filtrada
