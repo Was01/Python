@@ -3,7 +3,10 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "mount_file_id": "1xLBSkyZvACRmFkG7OJ-N2ulnqyUIUEoK",
+      "authorship_tag": "ABX9TyNXdF2h5eJss/FRAQmtW09T",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -15,8 +18,18 @@
   },
   "cells": [
     {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Was01/Python/blob/main/dataScience/aula01a05\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
       "cell_type": "code",
-      "execution_count": 15,
+      "execution_count": null,
       "metadata": {
         "id": "vFD0A2DdM8qr"
       },
@@ -43,7 +56,7 @@
         "id": "ocYV8dUOOYbm",
         "outputId": "d98b377f-c3a6-4b05-c605-9d565fe5ad8e"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -73,7 +86,7 @@
         "id": "0B3wLHE6Q4Bq",
         "outputId": "aaa52045-34fb-4ddd-c0cb-dd521b98eb38"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -103,7 +116,7 @@
         },
         "outputId": "eaafa8a8-2cb0-4c59-be70-c641b5011276"
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -128,7 +141,7 @@
         "id": "KD71q6SsKybl",
         "outputId": "5680b4dd-091e-4d4f-a018-5fe7df7d7e73"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -153,7 +166,7 @@
         "id": "z3Ij6NdgLkK8",
         "outputId": "750dbdfa-6d38-4c61-b0e4-eebba0a127e5"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -178,7 +191,7 @@
         "id": "o-TX4-OwL7fg",
         "outputId": "eaddaee1-8fc5-4c1a-c69c-9860a1691fe4"
       },
-      "execution_count": 21,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -203,7 +216,7 @@
         "id": "MCyJkTtsMGV-",
         "outputId": "b8cd825e-407c-4f8a-8ac7-bb4b03929059"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -232,7 +245,7 @@
         "id": "M3hK8ZeMO3Dr",
         "outputId": "394c38db-90b5-4895-e636-ea634faff171"
       },
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -255,7 +268,7 @@
         "id": "IqmrmBhIR2B_",
         "outputId": "b9f8d079-c1eb-444e-c25a-45d5464cc926"
       },
-      "execution_count": 24,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -278,7 +291,7 @@
         "id": "g0H9n3ilIXwK",
         "outputId": "4e46ce24-43bc-41a6-f151-79238ebdca27"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -302,7 +315,7 @@
         "id": "IJX7h3JdIvNM",
         "outputId": "be36b242-6e5d-4c0d-abe2-5949eb68e685"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -329,7 +342,7 @@
         "id": "PC0AcE3eI8Vl",
         "outputId": "0ff01ebf-05a8-4511-9893-58c2e16ff8f3"
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -360,7 +373,7 @@
         "id": "NCtAOOGZMgLC",
         "outputId": "eacaebdf-fe54-4aa5-e71c-8bedc6fec180"
       },
-      "execution_count": 28,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -386,7 +399,7 @@
         "id": "8ZhZG6MUIWhe",
         "outputId": "4f280edf-0c60-4353-c5a4-72f21d048979"
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -457,7 +470,7 @@
         "id": "gFvy_dnsMdEe",
         "outputId": "31d3410a-be41-44e5-aa16-d21db3698217"
       },
-      "execution_count": 30,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -484,7 +497,7 @@
         "id": "-lCIgyn4MpC5",
         "outputId": "f3a6f7f2-3227-40fc-8dd7-52f278f7ca8a"
       },
-      "execution_count": 31,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -518,7 +531,7 @@
         "id": "ASUQD4netu9y",
         "outputId": "13927bfd-7941-4509-f285-80f48c604e8d"
       },
-      "execution_count": 32,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -544,7 +557,7 @@
         "id": "ovz96GzJuRDA",
         "outputId": "9dea228f-27e5-4839-a201-3ff3b2e82e8d"
       },
-      "execution_count": 33,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -575,7 +588,7 @@
         "id": "bo14xUeKyKaj",
         "outputId": "5ce04e89-fa67-48a0-b798-350d59be802c"
       },
-      "execution_count": 34,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -610,7 +623,7 @@
         "id": "DuqEycF3wLEh",
         "outputId": "debad8ab-274e-43f3-c026-580e9ddbac98"
       },
-      "execution_count": 35,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -632,7 +645,7 @@
       "metadata": {
         "id": "SxH1rTaBVTYX"
       },
-      "execution_count": 36,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -650,7 +663,7 @@
         "id": "aLzA4dxZYGLa",
         "outputId": "1d86f14e-64dc-49ef-a143-f190cd88038f"
       },
-      "execution_count": 37,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -676,7 +689,7 @@
         "id": "kSnD3i-oaC9-",
         "outputId": "82a8f01c-b1af-4b7b-b02b-f498344aeca3"
       },
-      "execution_count": 39,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -702,7 +715,7 @@
         "id": "MzoPZmCVcS4x",
         "outputId": "38d51629-4986-41a4-fe41-b6599fad3376"
       },
-      "execution_count": 44,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -729,7 +742,7 @@
         "id": "llQ4AtNeceQW",
         "outputId": "f9b9930f-f56a-4be7-d7ad-ba9586dde3d5"
       },
-      "execution_count": 45,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -755,7 +768,7 @@
         "id": "Tl9g4Hb5chKk",
         "outputId": "bf0db353-af3d-4f02-f2ee-2bca4200acf4"
       },
-      "execution_count": 51,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -782,7 +795,7 @@
         "id": "eUEtHd7kdAgE",
         "outputId": "838ba6d7-c82d-453d-ef0e-06f4b09c9cf7"
       },
-      "execution_count": 57,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -815,7 +828,7 @@
         "id": "X4dlc7p-dAdS",
         "outputId": "b3f82129-9819-42ed-e1f7-2d02dbba1e69"
       },
-      "execution_count": 64,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -848,7 +861,7 @@
         "id": "x32CHwIee1CY",
         "outputId": "9e4c5040-6415-47ba-bfc8-079533333e8b"
       },
-      "execution_count": 65,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
